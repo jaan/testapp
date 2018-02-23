@@ -1,6 +1,6 @@
 {
     "App": {
-        "Name": "Mobile Agent test123-o",
+        "Name": "Mobile Agent test12345645622",
         "HomeScreenURL": {
             "Portrait": "https://c.na50.content.force.com/servlet/servlet.ImageServer?id=0156A000000I0WM&oid=00D6A000000u3Q1&lastMod=1495574987000",
             "Landscape": "https://c.na50.content.force.com/servlet/servlet.ImageServer?id=0156A000000I0WM&oid=00D6A000000u3Q1&lastMod=1495574987000"
